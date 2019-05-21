@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello_Git/Hello_Git.iml" filepath="$PROJECT_DIR$/Hello_Git/Hello_Git.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scala_spark_demo.iml" filepath="$PROJECT_DIR$/.idea/scala_spark_demo.iml" />
     </modules>
   </component>
